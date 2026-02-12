@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aaturu
 - 👀 I’m interested in Gaming, Coding, Anime and Chilling
-- 🌱 I’m currently learning ABAP, UI5, JavaScript and Python
+- 🌱 I’m currently learning ABAP, UI5, JavaScript and Python (only for school), starting with my C# Journey
 - 💞️ I’m looking to collaborate on ... (not there yet)
 - 📫 How to reach me Discord: user4513 
 - 😄 Pronouns: who cares?
